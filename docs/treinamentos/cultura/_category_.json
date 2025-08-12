@@ -1,0 +1,10 @@
+{
+  "label": "Cultura",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "title": "Treinamentos de Cultura Organizacional",
+    "description": "Lista de módulos e artigos de cultura organizacional.",
+    "slug": "/treinamentos/cultura"
+  }
+}
